@@ -17,7 +17,7 @@ public class player {
         this.nome = nome;
     }
 
-    public void adicionarMorte(String arma) {
+    public void adicionarExecucao(String arma) {
         // Registrar uma nova execucao e uma execucao por arma
         this.execucaoes++;
         if (arma != null) {
