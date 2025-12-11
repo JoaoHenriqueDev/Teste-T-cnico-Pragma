@@ -1,6 +1,6 @@
-package games;
+package pragma.TesteTecnico.testeTecnicoPragma.games;
 
-import player.player;
+import pragma.TesteTecnico.testeTecnicoPragma.player.player;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

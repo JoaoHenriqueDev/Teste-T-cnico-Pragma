@@ -1,4 +1,4 @@
-package player;
+package pragma.TesteTecnico.testeTecnicoPragma.player;
 
 import java.util.*;
 
