@@ -48,10 +48,18 @@ Execute dentro da pasta do projeto:
 
 ```bash
 mvn clean package
+```
 
-```Isso gera o arquivo
+Isso gera o arquivo:
+
+```
 target/quake-log-processor-1.0-SNAPSHOT.jar
+```
 
-### **3. Executar o programa
+### **3. Executar o programa**
+
+```bash
 java -jar target/quake-log-processor-1.0-SNAPSHOT.jar Quake.log games.json
+```
+
 
